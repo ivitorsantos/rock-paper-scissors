@@ -18,5 +18,5 @@ Um WebApp do jogo pedra, papel e tesoura desenvolvido em React JS sem auxilio de
 
 ## Será que você ganha?
 
-- Link para jogar: [Ir para o Site](https://www.github.com/octokatherine)
+- Link para jogar: [Ir para o Site](https://jolly-faloodeh-b45d76.netlify.app/)
 
