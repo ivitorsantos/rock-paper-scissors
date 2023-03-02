@@ -22,7 +22,7 @@ const App = () => {
   const [ties, setTies] = useState(0)
 
   useEffect(() => {
-    if(playerPicked == 0) {
+    if(match != '') {
       return 
     }
 
