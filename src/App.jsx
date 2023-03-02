@@ -14,7 +14,7 @@ import { Container, GameContainer, ComputerContainer, ResultContainer } from "./
 
 const App = () => {
 
-  const [match, setMatch] = useState()
+  const [match, setMatch] = useState('')
   const [playerPicked, setPlayerPicked] = useState(0)
   const [computerPicked, setComputerPicked] = useState(1)
   const [victories, setVictories] = useState(0)
